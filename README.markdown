@@ -1,6 +1,6 @@
-# Spring Batch Flat File To Database
+# Spring Batch Fixed Length Token
 
-A example of how to copy from a CSV file to the database. 
+A example of how to copy from CSV file with fixed length tokens to the database. 
 
 ## Author
 
